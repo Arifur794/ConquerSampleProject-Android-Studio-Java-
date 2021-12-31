@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80712547237",
+    "project_id": "conquersampleprojectjava",
+    "storage_bucket": "conquersampleprojectjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80712547237:android:ad0674bdc4e6473498c64c",
+        "android_client_info": {
+          "package_name": "com.example.conquersampleprojectlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80712547237-uird4knb2i52s19v0ooe9bnkm5ibo6dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-J1IzQhy_XkBumnanpETiZkI6JNjPpp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80712547237-uird4knb2i52s19v0ooe9bnkm5ibo6dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
